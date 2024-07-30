@@ -64,9 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-//app laravel about blog posts 
-//make datebase blogsystem
-//make table posts insert title and content
-// make migration and controller postcontroller and modle post
-// make method create update delete edit posts 
-// make validation 
+
+## Description about project 
+-app laravel about blog posts 
+-make datebase blogsystem
+-make table posts insert title and content
+- make migration and controller postcontroller and modle post
+-make method create update delete edit posts 
+- make validation 
